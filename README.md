@@ -1,23 +1,16 @@
 # 안녕하세요, 저는 Seyeon1225입니다! 👋
 
-![Profile views](https://gpvc.arturio.dev/Seyeon1225)
+![Engineering](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZxNTdseDA3bWczNWJ2OW5lNmo2bWJ1YmlocnV5dndlYXY3MXBtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tczJoRU7XwBS8/giphy.gif)
 
 ## 기술 스택
 
-- 💻 언어: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- 🧰 도구: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 💻 언어: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white), ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- 🧰 도구: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white), ![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logo=catia&logoColor=white), ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white), ![Notion](https://img.shields.io/badge/Notion-A8B9CC?style=flat-square&logo=Notion&logoColor=white)
 
 ## GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seyeon1225&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyeon1225&layout=compact&theme=radical)
-
-## 연락처 및 소셜 미디어
-
-- 📧 이메일: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 웹사이트: [your-website.com](https://your-website.com)
-- 🐦 트위터: [@your_twitter](https://twitter.com/your_twitter)
-- 📸 인스타그램: [@your_instagram](https://instagram.com/your_instagram)
 
 ## Badges
 
