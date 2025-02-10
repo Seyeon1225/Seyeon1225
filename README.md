@@ -10,8 +10,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seyeon1225&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyeon1225&layout=compact&theme=radical)
 
-## Badges
-
 ![GitHub followers](https://img.shields.io/github/followers/Seyeon1225?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Seyeon1225?style=social)
 
