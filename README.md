@@ -1,4 +1,4 @@
-# 안녕하세요 Seyeon1225입니다! 👋
+# hello! 👋
 
 ![Engineering](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZxNTdseDA3bWczNWJ2OW5lNmo2bWJ1YmlocnV5dndlYXY3MXBtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tczJoRU7XwBS8/giphy.gif)
 
